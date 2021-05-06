@@ -7,6 +7,6 @@ I specialize in building ASP.NET Core services wrapped around hand-crafted third
 
 ### PHP
 
-I'm currently working on a Packagist library called [ExPHPress](https://github.com/crossview-software/exphpress), which is a slim port of the Express NodeJS library to PHP. It features a simple middleware pipeline, request routing by matching both HTTP method and URI, and a simple fluent API.
+I'm currently working on a Packagist library called [ExPHPress](https://github.com/christianlevesque/exphpress), which is a slim port of the Express NodeJS library to PHP. It features a simple middleware pipeline, request routing by matching both HTTP method and URI, and a simple fluent API.
 
 PHP is replete with popular complete frameworks for developing websites. Laravel, Symfony, and Yii handily mop up the PHP market share that WordPress neglects. Express enjoys wild popularity among JavaScript developers because it's simple and unopinionated. It doesn't do a whole lot and leaves most choices (database, ORM, structure, authentication, templating engine) up to the developer. ExPHPress is meant to largely be a port of Express straight to PHP, with middleware support and routing similar to Express (or, for that matter, Laravel), but without any of the opinionated decisions of large frameworks. Feel free to mix Blade templates with Doctrine models to your heart's content.
